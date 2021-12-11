@@ -7,4 +7,4 @@ Nele temos 3 layouts diferentes, que seria:
 -Brafé 2
 -Brafé 3
 
-Cada um funciona de forma independent
+Cada um funciona de forma independente
