@@ -1,4 +1,4 @@
-# Origamid
+# Projeto de sites
 
 Esses são alguns projetos que foram desenvolvidos ao decorrer do curso da Origamid.
 Nele temos 3 layouts diferentes, que seria:
@@ -7,4 +7,4 @@ Nele temos 3 layouts diferentes, que seria:
 -Brafé 2
 -Brafé 3
 
-Cada um funciona de forma independente
+Cada um funciona de forma independente.
